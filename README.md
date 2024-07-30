@@ -24,4 +24,4 @@
 结果显示，基于SVM的稻叶病图像识别模型在三种稻叶病病斑的查准率、查全率、F1测度都较高，并且总精确度高于70%，符合系统指标预期。
 
 
-# 系统使用方法见Readme.pdf
+# 系统使用方法见[Readme.pdf](https://github.com/Amazing-Long/Rice-Leaf-Disease-Image-Recognition-System/blob/main/Readme.pdf)
