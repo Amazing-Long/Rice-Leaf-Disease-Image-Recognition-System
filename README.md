@@ -8,7 +8,8 @@
 5)	系统的搭建：利用Matlab软件搭建整体系统。
 
 技术路线：
-![image](https://github.com/user-attachments/assets/94adf7c2-2b35-4fa9-b7e1-73ca6f08c6b4)
+![图片1](https://github.com/user-attachments/assets/e5b7c1a8-4433-4efe-b930-2f77d4e51b8c)
+
 
 系统测试：
 	    查准率	     查全率	   F测度	   
